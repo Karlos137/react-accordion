@@ -1,5 +1,5 @@
 // React components
-import Accordions from "./Accordions"
+import Accordion from "./Accordion"
 
 // Styled components
 import GlobalStyle from "../styled-components/globalStyles"
@@ -8,7 +8,7 @@ const App = () => {
   return (
     <>
       <GlobalStyle />
-      <Accordions />
+      <Accordion />
     </>
   )
 }
